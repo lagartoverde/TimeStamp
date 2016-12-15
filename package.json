@@ -1,0 +1,20 @@
+{
+  "name": "time-stamp",
+  "version": "1.0.0",
+  "description": "A simple Time Stamp API microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lagartoverde/TimeStamp.git"
+  },
+  "author": "lagartoverde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lagartoverde/TimeStamp/issues"
+  },
+  "homepage": "https://github.com/lagartoverde/TimeStamp#readme"
+}
